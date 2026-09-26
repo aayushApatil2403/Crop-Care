@@ -4,19 +4,19 @@ An off-grid, solar-powered refrigeration system designed for post-harvest agricu
 
 ---
 
-## 📸 System Diagrams & Enclosure Layout
+## 📐 System Views & Diagrams
 
-### 1. Front View — Main Access & Intake
-![Front View](assets/front-view.png)
-*Front elevation displaying top-mounted solar panels, main chamber access doors, and bottom cooling air intake grille.*
+### Front View — Main Chamber & Air Intake
+![Front View](front-view.png)
+*Front elevation displaying the top solar array, main access doors, and bottom cooling air intake grille.*
 
-### 2. Rear View — Electronics & Mechanical Layout
-![Rear View](assets/rear-view.png)
-*Rear view detailing the dedicated electronics compartment and condenser outlet exhaust fan.*
+### Rear View — Mechanical & Electronics Enclosures
+![Rear View](rear-view.png)
+*Rear elevation showing the electronics chamber and condenser outlet fan assembly.*
 
-### 3. Internal Schematic — Airflow & Thermal Loop
-![Internal Cross-Section](assets/cross-section.png)
-*Detailed cross-section illustrating PCM storage cylinders, evaporator coil, ducting, battery system, and produce storage circulation.*
+### Cross-Section — Airflow & Thermal Management
+![Cross Section View](cross-section.png)
+*Internal schematic highlighting the PCM cylinders, evaporator coil, air ducting loop, and battery/compressor compartments.*
 
 ---
 
