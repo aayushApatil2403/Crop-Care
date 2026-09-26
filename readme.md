@@ -56,22 +56,6 @@ This project provides a hardware and system architecture for a self-sustaining c
 
 ---
 
-## 🗂 Suggested Repository Structure
-
-```text
-├── assets/                 # System diagrams and schematic images
-│   ├── front-view.png
-│   ├── rear-view.png
-│   └── cross-section.png
-├── CAD/                    # 3D models and structural enclosure schematics (.STEP, .STL)
-├── Schematics/             # Wiring diagrams and PCB layouts (Electronics chamber)
-├── Firmware/               # Microcontroller code for temperature and fan control
-├── Simulation/             # CFD thermal analysis and energy balance models
-└── README.md               # Project documentation
-```
-
----
-
 ## 🛠 Features
 
 - **Off-Grid Operation**: Fully functional using solar energy paired with PCM thermal storage.
